@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Viict\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Viict\\.nuget\\packages"
+    ]
+  }
+}
